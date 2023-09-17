@@ -1,0 +1,5 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "javascript.inlayHints.enumMemberValues.enabled": true
+}
